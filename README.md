@@ -40,19 +40,19 @@ To install and run the Push Swap project, follow these steps:
 
 Clone the project repository: 
 
-			git clone https://github.com/your_username/42-push_swap.git
+				git clone https://github.com/your_username/42-push_swap.git
 Navigate to the project directory: 
 				
-				cd 42-push_swap
+						cd 42-push_swap
 Compile the project using the provided Makefile: 
 					
-				     make
+				     		   make
 Sort the integers using the push_swap program: 
 
 			./push_swap <Enter as many numbers as you want but separated by space>
 Verify the sorting using the checker program: 
 			
-			./checker <list_of_integers>
+					  ./checker <list_of_integers>
 Ensure that you have the necessary libraries and dependencies installed on your system. The project's repository may provide further instructions on any additional requirements.
 
 <h2>Testing</h2>
