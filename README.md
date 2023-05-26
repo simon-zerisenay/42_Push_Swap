@@ -38,12 +38,21 @@ In addition to the sorting program, you are required to create a checker program
 <h2>Installation and Usage</h2>
 To install and run the Push Swap project, follow these steps:
 
-Clone the project repository: git clone https://github.com/your_username/42-push_swap.git
-Navigate to the project directory: cd 42-push_swap
-Compile the project using the provided Makefile: make
-Generate a random set of integers to be sorted: ./utils/generate.sh <number_of_integers>
-Sort the integers using the push_swap program: ./push_swap <list_of_integers>
-Verify the sorting using the checker program: ./checker <list_of_integers>
+Clone the project repository: 
+
+			git clone https://github.com/your_username/42-push_swap.git
+Navigate to the project directory: 
+				
+				cd 42-push_swap
+Compile the project using the provided Makefile: 
+					
+				     make
+Sort the integers using the push_swap program: 
+
+			./push_swap <Enter as many numbers as you want but separated by space>
+Verify the sorting using the checker program: 
+			
+			./checker <list_of_integers>
 Ensure that you have the necessary libraries and dependencies installed on your system. The project's repository may provide further instructions on any additional requirements.
 
 <h2>Testing</h2>
