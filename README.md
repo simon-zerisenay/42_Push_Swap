@@ -1,7 +1,10 @@
+<div align="center">
+	
 <h1> Push Swap </h1>
 
 <a href="https://github.com/simon-zerisenay/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
 
+</div>
 <h2>Introduction </h2>
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/simon-zerisenay/42_Push_Swap?color=lightblue" />
