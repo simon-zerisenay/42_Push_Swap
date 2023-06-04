@@ -11,7 +11,7 @@
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/simon-zerisenay/42_Push_Swap?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/simon-zerisenay/42_Push_Swap?color=yellow" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/simon-zerisenay/42_Push_Swap?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_Push_Swap?color=green" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_Push_Swap?color=green" /> 
 </p>
 
 Welcome to the Push Swap project! This project is part of the curriculum at 42 and focuses on sorting algorithms and the manipulation of stack data structures. Push Swap involves creating two programs: one that sorts a stack of integers using a specific set of operations, and another that checks if the given set of instructions properly sorts the stack.
