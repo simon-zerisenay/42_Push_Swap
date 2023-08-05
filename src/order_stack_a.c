@@ -28,4 +28,3 @@ void	sort_stack_a(t_node **stack, int point)
 		while (ra_size--)
 			rotate(stack, "ra", 1);
 }
- 
