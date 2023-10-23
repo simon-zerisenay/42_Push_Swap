@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "../includes/push_swap_bonus.h"
-
+ 
 static int	have_duplicates2(t_node **a, long num)  
 {
 	t_node	*temp;
