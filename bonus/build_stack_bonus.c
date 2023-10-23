@@ -22,7 +22,7 @@ static int	have_duplicates2(t_node **a, long num)
 		if (temp->data == (int)num)
 			return (1);
 		temp = temp->next;
-	}
+	} 
 	return (0);
 }
 
