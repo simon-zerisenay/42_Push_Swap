@@ -12,7 +12,7 @@
 
 END=$'\x1b[0m
 BOLD=$'\x1b[1m
-UNDER=$'\x1b[4m
+UNDER=$'\x1b[4m 
 REV=$'\x1b[7m 
 GREY=$'\x1b[30m
 RED=$'\x1b[31m  
