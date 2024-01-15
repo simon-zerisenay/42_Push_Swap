@@ -25,7 +25,7 @@ WHITE=$'\x1b[37m
 BLINK=$'\x1b[48m
 CC		= gcc
 CFLAGS	= -Wall -Werror -Wextra
-NAME	= push_swap
+NAME	= push_swap 
 C_NAME = checker
 
 SRC_PATH = src/
